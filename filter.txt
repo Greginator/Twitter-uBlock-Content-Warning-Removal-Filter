@@ -1,0 +1,4 @@
+! 2024-04-10 https://twitter.com
+twitter.com,x.com##article > div > div > div > div > div[id] > div > div > div > div > div:style(filter:none!important;)
+twitter.com,x.com##li[id^='verticalGrid'] div *:style(filter:none!important)
+twitter.com,x.com##li[id^='verticalGrid'] > div > div > div > div:last-child, article > div > div > div > div > div[id] > div > div > div > div > div + div:has(div[role="button"]):style(display:none!important)
