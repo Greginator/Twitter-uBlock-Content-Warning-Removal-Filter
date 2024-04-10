@@ -11,6 +11,6 @@ Alternative
 
 ## Why?
 
-Twitter has begun aggressively marking all content from users it seems to be "sensitive" with a content warning even if the content in question isn't sensitive at all.
+Twitter has begun aggressively marking all content from users it deems to be "sensitive" with a content warning even if the content in question isn't sensitive at all.
 
-I saw lots of scripts using Stylus or ViolentMonkey to do this but none using uBlock Origin which is much more widely used by people already for privacy and tracking protection.
+While a lot of scripts were using Stylus or ViolentMonkey to do this, I saw none using uBlock Origin which is much more widely used for privacy and tracking protection.
